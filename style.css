@@ -1,0 +1,37 @@
+.termos {
+    color: #757575;
+    opacity: 80%;
+}
+
+.emailSenha-label {
+    color: #3e3e3e;
+}
+
+@media (max-width: 576px) {
+    .container-custom {
+        max-width: 92%;
+        margin: auto;
+    }
+}
+
+@media (min-width: 577px) {
+    .container-custom {
+        max-width: 80%;
+        margin: auto;
+    }
+}
+
+@media (min-width: 812px) {
+    .container-custom {
+        max-width: 60%;
+        margin: auto;
+    }
+}
+
+@media (min-width: 992px) {
+    .container-custom {
+        max-width: 30%;
+        margin: auto;
+    }
+}
+
